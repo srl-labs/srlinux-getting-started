@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="[0] welcome prompt" id="DtRPSw0Q84hj6Syw1lVk">
-    <mxGraphModel dx="1975" dy="1100" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="392" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nCmd6DkAqDhLXYnMji7A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="1">
+        <mxCell id="nCmd6DkAqDhLXYnMji7A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" parent="1" vertex="1">
           <mxGeometry x="688" y="587" width="504" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="nCmd6DkAqDhLXYnMji7A-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="1">
+        <mxCell id="nCmd6DkAqDhLXYnMji7A-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" parent="1" vertex="1">
           <mxGeometry x="688" y="638" width="504" height="18" as="geometry" />
         </mxCell>
         <mxCell id="vOQ2-L0Opo91MlNVydcH-42" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="692" y="638" width="151" height="17" as="geometry" />
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="nCmd6DkAqDhLXYnMji7A-3" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="638.5" width="151" height="17" as="geometry" />
+        <mxCell id="nCmd6DkAqDhLXYnMji7A-3" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="639" width="151" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="nCmd6DkAqDhLXYnMji7A-4" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A: leaf1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="596" width="151" height="29" as="geometry" />
+        <mxCell id="nCmd6DkAqDhLXYnMji7A-4" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A: leaf1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="693" y="596" width="151" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
