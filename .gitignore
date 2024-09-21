@@ -1,0 +1,4 @@
+clab-*
+private
+**/*.bak
+*.lic
