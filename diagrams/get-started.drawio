@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="[0] welcome prompt" id="DtRPSw0Q84hj6Syw1lVk">
-    <mxGraphModel dx="703" dy="392" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="513" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,81 @@
         </mxCell>
         <mxCell id="nCmd6DkAqDhLXYnMji7A-4" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1#&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="693" y="596" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-16" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="688" y="693" width="504" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-17" value="toolbar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="910" y="691" width="58" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-18" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="688" y="663" width="143" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-19" value="CLI mode/statuses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="698" y="663" width="120" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-20" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="663" width="66" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-21" value="username" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1042.5" y="663" width="73" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-22" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="1121.5" y="663" width="66" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-23" value="date/time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="663" width="71" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="705" y="574" width="75" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-25" value="CLI mode&lt;br&gt;and statuses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="698" y="540" width="88" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-26" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="796" y="574" width="21" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-27" value="current context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="801" y="538" width="102" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFB00;" edge="1" parent="1" source="fcxd7YbUQ3BsasLPsp_U-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="557" as="sourcePoint" />
+            <mxPoint x="892" y="561" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="813" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-30" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;" vertex="1" parent="1">
+          <mxGeometry x="705" y="623" width="29" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFB00;" edge="1" parent="1" source="fcxd7YbUQ3BsasLPsp_U-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="579" as="sourcePoint" />
+            <mxPoint x="664" y="634" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="707" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-32" value="hostname" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="594" y="620" width="73" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFB00;" edge="1" parent="1" source="fcxd7YbUQ3BsasLPsp_U-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="721" y="628" as="sourcePoint" />
+            <mxPoint x="664" y="607" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="674" y="607" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-34" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="683" y="614" width="10" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="fcxd7YbUQ3BsasLPsp_U-35" value="control plane&lt;br&gt;module" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;spacing=-7;" vertex="1" parent="1">
+          <mxGeometry x="583" y="595" width="71" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
