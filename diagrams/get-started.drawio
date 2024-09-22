@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="[0] welcome prompt" id="DtRPSw0Q84hj6Syw1lVk">
-    <mxGraphModel dx="783" dy="436" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="316" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fcxd7YbUQ3BsasLPsp_U-34" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=none;strokeColor=#FFFB00;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="683" y="614" width="10" height="7" as="geometry" />
+          <mxGeometry x="685" y="615" width="10" height="4" as="geometry" />
         </mxCell>
         <mxCell id="fcxd7YbUQ3BsasLPsp_U-35" value="control plane&lt;br&gt;module" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;spacing=-7;" vertex="1" parent="1">
           <mxGeometry x="583" y="595" width="71" height="24" as="geometry" />
