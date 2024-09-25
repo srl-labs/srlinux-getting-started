@@ -227,8 +227,8 @@
         <mxCell id="U71K20ToNLPxA8OgdBkq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
           <mxGeometry x="878" y="590" width="82" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="U71K20ToNLPxA8OgdBkq-5" value="ethernet-1/1&#xa;ethernet-1/49&#xa;mgmt0" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
-          <mxGeometry x="879" y="587" width="78" height="37" as="geometry" />
+        <mxCell id="U71K20ToNLPxA8OgdBkq-5" value="ethernet-1/1&#xa;ethernet-1/49&#xa;mgmt0" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=9;labelBackgroundColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="879" y="587" width="92" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
