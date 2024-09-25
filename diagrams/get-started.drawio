@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="3">
   <diagram name="[0] welcome prompt" id="DtRPSw0Q84hj6Syw1lVk">
     <mxGraphModel dx="568" dy="316" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
@@ -93,6 +93,67 @@
         </mxCell>
         <mxCell id="fcxd7YbUQ3BsasLPsp_U-35" value="control plane&lt;br&gt;module" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Google Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGoogle%2BSans;fontColor=#FFFFFF;spacing=-7;" vertex="1" parent="1">
           <mxGeometry x="583" y="595" width="71" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="[1] suggestion window" id="fntJi4VX09mXbgpVyLZZ">
+    <mxGraphModel dx="1037" dy="578" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+      <root>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-0" />
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-1" parent="fwmAT6fZJ9WdfyXD4-Wr-0" />
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="688" y="529" width="591" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="688" y="638" width="591" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-4" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="1121" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# &lt;font color=&quot;#fffb00&quot;&gt;&amp;lt;TAB&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="693" y="535" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="692" y="566" width="583" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fwmAT6fZJ9WdfyXD4-Wr-9" value=" !                date             file             monitor          pwc              show             traceroute      &#xa; acl              diff             help             network-instance qos              source           traceroute6     &#xa; back             echo             history          passwd           quit             system           tree            &#xa; bash             enter            info             ping             references       tcptraceroute    tunnel          &#xa; bfd              environment      interface        ping6            routing-policy   tech-support     tunnel-interface&#xa; cls              exit             list             platform         save             tools            watch" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="fwmAT6fZJ9WdfyXD4-Wr-1">
+          <mxGeometry x="690" y="565" width="581" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="[2] suggestion window" id="oYro1XdSq2RQ2ffgzbPZ">
+    <mxGraphModel dx="1064" dy="592" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+      <root>
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-0" />
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-1" parent="GuL4ALd_1CEDO6l2g3Ta-0" />
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="688" y="529" width="591" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="688" y="638" width="591" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-4" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="1123" y="638.5" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="GuL4ALd_1CEDO6l2g3Ta-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# &lt;font color=&quot;#fffb00&quot;&gt;history&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="693" y="535" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="46O4Q3GJp7-n5Bn7j19K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="858" y="590" width="82" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="46O4Q3GJp7-n5Bn7j19K-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="692" y="566" width="583" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="46O4Q3GJp7-n5Bn7j19K-0" value=" !                date             file             monitor          pwc              show             traceroute      &#xa; acl              diff             help             network-instance qos              source           traceroute6     &#xa; back             echo             history          passwd           quit             system           tree            &#xa; bash             enter            info             ping             references       tcptraceroute    tunnel          &#xa; bfd              environment      interface        ping6            routing-policy   tech-support     tunnel-interface&#xa; cls              exit             list             platform         save             tools            watch" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
+          <mxGeometry x="690" y="565" width="581" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
