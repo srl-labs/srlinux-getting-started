@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="6">
   <diagram name="[0] welcome prompt" id="DtRPSw0Q84hj6Syw1lVk">
     <mxGraphModel dx="568" dy="316" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
       <root>
@@ -154,6 +154,81 @@
         </mxCell>
         <mxCell id="46O4Q3GJp7-n5Bn7j19K-0" value=" !                date             file             monitor          pwc              show             traceroute      &#xa; acl              diff             help             network-instance qos              source           traceroute6     &#xa; back             echo             history          passwd           quit             system           tree            &#xa; bash             enter            info             ping             references       tcptraceroute    tunnel          &#xa; bfd              environment      interface        ping6            routing-policy   tech-support     tunnel-interface&#xa; cls              exit             list             platform         save             tools            watch" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="GuL4ALd_1CEDO6l2g3Ta-1">
           <mxGeometry x="690" y="565" width="581" height="72" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="[3] interface pt1" id="J-4I-pwu2kA7r5TAPOfw">
+    <mxGraphModel dx="965" dy="537" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+      <root>
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-0" />
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-1" parent="Mo1o2Oe6yfoBjugL_DYL-0" />
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="Mo1o2Oe6yfoBjugL_DYL-1">
+          <mxGeometry x="688" y="587" width="342" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="Mo1o2Oe6yfoBjugL_DYL-1">
+          <mxGeometry x="688" y="638" width="342" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-4" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="Mo1o2Oe6yfoBjugL_DYL-1">
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="Mo1o2Oe6yfoBjugL_DYL-1">
+          <mxGeometry x="870" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="Mo1o2Oe6yfoBjugL_DYL-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="Mo1o2Oe6yfoBjugL_DYL-1">
+          <mxGeometry x="693" y="596" width="151" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="[4] interface pt2" id="EUWuIjWseixoNpeYgIst">
+    <mxGraphModel dx="847" dy="471" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+      <root>
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-0" />
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-1" parent="5wP_ldIcdAHpJa--Sq6w-0" />
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="688" y="587" width="342" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="688" y="638" width="342" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-4" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="870" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface &lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="693" y="596" width="163" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="[5] interface pt3" id="qGXfjxlAeSwqL_R6s6Qv">
+    <mxGraphModel dx="988" dy="550" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#4D5766" math="0" shadow="0">
+      <root>
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-0" />
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-1" parent="yHHokr1XkXG5T8G0fSmr-0" />
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#001135;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="688" y="558" width="342" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CFDDED;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="688" y="638" width="342" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-4" value="Current mode: + running" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="692" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="870" y="639" width="151" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface &lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="693" y="563" width="163" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="U71K20ToNLPxA8OgdBkq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="807" y="590" width="82" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="U71K20ToNLPxA8OgdBkq-5" value="ethernet-1/1&#xa;ethernet-1/49&#xa;mgmt0" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="808" y="587" width="78" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
