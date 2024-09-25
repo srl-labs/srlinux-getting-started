@@ -198,8 +198,8 @@
         <mxCell id="5wP_ldIcdAHpJa--Sq6w-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
           <mxGeometry x="870" y="639" width="151" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="5wP_ldIcdAHpJa--Sq6w-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface &lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
-          <mxGeometry x="693" y="596" width="163" height="29" as="geometry" />
+        <mxCell id="5wP_ldIcdAHpJa--Sq6w-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface &lt;font color=&quot;#fffb00&quot;&gt;&amp;lt;TAB&amp;gt;&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="5wP_ldIcdAHpJa--Sq6w-1">
+          <mxGeometry x="693" y="596" width="199" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -221,14 +221,14 @@
         <mxCell id="yHHokr1XkXG5T8G0fSmr-5" value="admin (26)&amp;nbsp; Wed 10:36AM" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#001135;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
           <mxGeometry x="870" y="639" width="151" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="yHHokr1XkXG5T8G0fSmr-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface &lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
-          <mxGeometry x="693" y="563" width="163" height="29" as="geometry" />
+        <mxCell id="yHHokr1XkXG5T8G0fSmr-6" value="--{ + running }--[&amp;nbsp; ]--&lt;br&gt;A:leaf1# interface&amp;nbsp;&amp;lt;TAB&amp;gt;&lt;span style=&quot;color: rgb(255, 251, 0);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 251, 0);&quot;&gt;&amp;lt;TAB&amp;gt;&lt;/span&gt;&amp;nbsp;&lt;font color=&quot;#98a2ae&quot;&gt;&amp;lt;name&amp;gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=JetBrains Mono;fontStyle=0;fontColor=#FFFFFF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;spacing=-1;spacingBottom=0;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
+          <mxGeometry x="693" y="563" width="235" height="29" as="geometry" />
         </mxCell>
         <mxCell id="U71K20ToNLPxA8OgdBkq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFDDED;opacity=70;strokeColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
-          <mxGeometry x="807" y="590" width="82" height="39" as="geometry" />
+          <mxGeometry x="878" y="590" width="82" height="39" as="geometry" />
         </mxCell>
         <mxCell id="U71K20ToNLPxA8OgdBkq-5" value="ethernet-1/1&#xa;ethernet-1/49&#xa;mgmt0" style="text;whiteSpace=wrap;fontFamily=JetBrains Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJetBrains%2BMono;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="yHHokr1XkXG5T8G0fSmr-1">
-          <mxGeometry x="808" y="587" width="78" height="37" as="geometry" />
+          <mxGeometry x="879" y="587" width="78" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
